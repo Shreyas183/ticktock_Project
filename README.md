@@ -23,6 +23,7 @@ MirageJS – Mock API server for development
 Clsx – Utility for constructing className strings
 
 📋 Features
+
 🔐 Authentication
 
 Login Page: Email/password form with validation
